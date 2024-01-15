@@ -21,16 +21,16 @@
 
 ## [Лекції](lec/README.md)
 
-1) Вступ до IoT та IIoT
-2) Основи JS
-3) Основи Node.js 
-4) Комунікації IoT та IIoT рівня Edge 
-5) Протокол MQTT
-6) Протокол HTTP та REST API
-7) Основи Google Apps Scripts
-8) Серіалізація з використанням XML та JSON
-9) Асинхронний JS  
-10) Основи LoCode/NoCode Appsmith
+1) [Вступ до IoT та IIoT](lec/1.md)
+2) [Основи JS](lec/2.md)
+3) [Основи Node.js](lec/3.md) 
+4) [Комунікації IoT та IIoT рівня Edge](lec/4.md) 
+5) [Протокол MQTT](lec/5.md)
+6) [Протокол HTTP та REST API](lec/6.md)
+7) [Основи Google Apps Scripts](lec/7.md)
+8) [Серіалізація з використанням XML та JSON](lec/8.md)
+9) [Асинхронний JS](lec/9.md)  
+10) [Основи LoCode/NoCode Appsmith](lec/10.md)
 
 ## [Лабораторні роботи](lab/README.md)
 
