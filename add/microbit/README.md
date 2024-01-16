@@ -64,7 +64,7 @@ MakeCode [target](https://makecode.com/target-creation) — це повний р
 
 ![PXT, Target, and extension repos](https://pxt.azureedge.net/blob/894a43ad4a2f5f2d769575e64eea1e9dac84a5bd/static/about/pxt-extension.png)
 
-## The micro:bit - a reactive system
+## micro:bit - реактивна система
 
 https://makecode.microbit.org/device/reactive
 
